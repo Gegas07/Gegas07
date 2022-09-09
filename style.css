@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(img/background.jpg);
+  color: white;
+  font: bold;
+  font-weight: bold;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
